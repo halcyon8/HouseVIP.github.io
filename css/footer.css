@@ -1,0 +1,38 @@
+.footer{
+    background-color: #2D343C;
+}
+.footer__content{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+a.no{
+font-family: "Raleway";
+font-size: 14px;
+color: white;
+}
+li.no{
+    margin-bottom: 8px;
+    font-family: "Raleway";
+    font-size: 16px;
+    color: white; 
+}
+a.noE{
+    color: #D4C17F;
+}
+.footer__lists{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.img__footer{
+    margin-top: 58px;
+}
+li.no__logos{
+    display: flex;
+    justify-content: space-between;
+    max-width: 171px;
+}
+.footer__list{
+    margin-right: 50px;
+}

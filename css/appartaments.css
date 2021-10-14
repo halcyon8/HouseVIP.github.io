@@ -1,0 +1,14 @@
+.appartaments__title{
+    font-size: 36px;
+    font-style: normal;
+    color: #D4C17F;
+    margin-top: 130px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    font-weight: normal;
+}
+.loft{
+    padding: 15px 15px 15px 15px;
+    max-width: 520px;
+    height: 300px;
+}

@@ -1,0 +1,12 @@
+.map__title{
+    font-size:36px;
+    color: #D4C17F;
+}
+.map{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.map__all{
+    margin-top: 180px;
+}

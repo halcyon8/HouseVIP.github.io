@@ -1,0 +1,22 @@
+.container{
+    max-width: 1110px;
+    margin: 0 auto;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap; 
+}
+.title{
+    text-align: center;
+    color: #D4C17F;
+    font-size: 36px;
+    font-family: "Raleway";
+    font-weight: normal;
+}
+.description{
+    text-align: center;
+    font-family: "Raleway";
+    font-weight: normal;
+    font-size: 16px;
+    color: #72787D;
+}
